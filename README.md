@@ -1,2 +1,2 @@
-# COMP5423-NLP-Group-Project
-COMP5423 NLP Group Project
+# COMP5423 -- NLP
+ PolyU 2024 COMP5423 NLP Group Project
